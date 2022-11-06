@@ -4,3 +4,4 @@
 4 git commit
 git rm
 new branch test
+git diff
