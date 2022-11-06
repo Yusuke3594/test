@@ -2,3 +2,4 @@
 2 難しいという感想です。
 3 git add
 4 git commit
+git rm
